@@ -45,11 +45,11 @@ Estos antecedentes muestran la necesidad de metodologías más robustas para man
 ---
 
 ## ⚙️ Tecnologías utilizadas
-- **Python 3.10+**
-- pandas, numpy, scikit-learn
-- XGBoost
-- Matplotlib / Seaborn
-- Implementación propia de **entropía difusa**
+- [scikit-learn](https://scikit-learn.org/) → Preprocesamiento, validación y métricas.  
+- [xgboost](https://xgboost.readthedocs.io/) → Clasificador principal.  
+- [scikit-fuzzy](https://pythonhosted.org/scikit-fuzzy/) → Cálculo de funciones de pertenencia y entropía difusa.  
+- [pandas / numpy](https://pandas.pydata.org/) → Manejo de datos.  
+- [matplotlib / seaborn](https://matplotlib.org/) → Visualización de resultados. 
 
 ---
 
