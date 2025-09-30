@@ -23,6 +23,7 @@ Estos antecedentes muestran la necesidad de metodologías más robustas para man
 ---
 
 ## 🧩 Metodología
+![Metodologia_CRISP-DM](./Metodologia_CrispDM.png)
 El pipeline desarrollado sigue cuatro etapas principales:
 
 1. **Preprocesamiento de datos clínicos**  
