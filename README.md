@@ -67,8 +67,7 @@ El modelo final (XGBoost + Entropía Difusa + Ajuste de Umbral) alcanzó:
 
 ## 📈 Visualizaciones
 ### Curvas de rendimiento
-| ROC-AUC | PR-AUC |
-(./comparacion_modelos_auc_ap.png)
+![Curvas ROC y PR](./comparacion_modelos_auc_pr.png)
 
 ---
 
