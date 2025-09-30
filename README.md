@@ -129,7 +129,5 @@ Además, el enfoque es **replicable y escalable** a otros problemas complejos de
 ## 🚀 Cómo ejecutar
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/jhonvilcarana/anemia-fuzzyentropy.git
+   git clone https://github.com/jhonvilcarana/Anemia_Fuzzy_Entropy.git
    cd anemia-fuzzyentropy
-
-pip install -r requirements.txt
