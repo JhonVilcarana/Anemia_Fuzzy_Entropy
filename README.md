@@ -49,7 +49,9 @@ Estos antecedentes muestran la necesidad de metodologías más robustas para man
 - [xgboost](https://xgboost.readthedocs.io/) → Clasificador principal.  
 - [scikit-fuzzy](https://pythonhosted.org/scikit-fuzzy/) → Cálculo de funciones de pertenencia y entropía difusa.  
 - [pandas / numpy](https://pandas.pydata.org/) → Manejo de datos.  
-- [matplotlib / seaborn](https://matplotlib.org/) → Visualización de resultados. 
+- [matplotlib / seaborn](https://matplotlib.org/) → Visualización de resultados.
+- [openpyxl](https://openpyxl.readthedocs.io/) → Manejo de datos en Excel.
+
 
 ---
 
